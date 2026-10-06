@@ -7,7 +7,7 @@ The latest release. Older versions are not patched.
 ## Reporting a vulnerability
 
 Please do not open a public issue. Use GitHub's private reporting:
-<https://github.com/BBellenoue/claude-statusline/security/advisories/new>
+<https://github.com/quietmachineworks/claude-statusline/security/advisories/new>
 
 Say what you ran, what you expected and what happened. This is a one-person project: expect an answer
 within a week or so, and a fix as soon as the report is confirmed.
