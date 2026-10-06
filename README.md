@@ -1,6 +1,6 @@
 # claude-statusline
 
-[![CI](https://github.com/BBellenoue/claude-statusline/actions/workflows/ci.yml/badge.svg)](https://github.com/BBellenoue/claude-statusline/actions/workflows/ci.yml)
+[![CI](https://github.com/quietmachineworks/claude-statusline/actions/workflows/ci.yml/badge.svg)](https://github.com/quietmachineworks/claude-statusline/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A four-line status line for [Claude Code](https://code.claude.com): model, folder, git,
@@ -34,13 +34,13 @@ with both on Linux, macOS and Windows and compares them.
 
 ## Install
 
-Download the script of the [latest release](https://github.com/BBellenoue/claude-statusline/releases/latest)
+Download the script of the [latest release](https://github.com/quietmachineworks/claude-statusline/releases/latest)
 into `~/.claude/`, then add a `statusLine` entry to `~/.claude/settings.json`.
 
 **Linux / macOS**
 
 ```sh
-curl -fsSL https://github.com/BBellenoue/claude-statusline/releases/latest/download/statusline.sh -o ~/.claude/statusline.sh
+curl -fsSL https://github.com/quietmachineworks/claude-statusline/releases/latest/download/statusline.sh -o ~/.claude/statusline.sh
 chmod +x ~/.claude/statusline.sh
 ```
 
@@ -53,7 +53,7 @@ chmod +x ~/.claude/statusline.sh
 **Windows (PowerShell 7)**
 
 ```powershell
-irm https://github.com/BBellenoue/claude-statusline/releases/latest/download/statusline.ps1 -OutFile ~/.claude/statusline.ps1
+irm https://github.com/quietmachineworks/claude-statusline/releases/latest/download/statusline.ps1 -OutFile ~/.claude/statusline.ps1
 ```
 
 ```json

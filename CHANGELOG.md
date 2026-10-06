@@ -19,5 +19,5 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Versions follo
   PSScriptAnalyzer, a check that a repository's `core.fsmonitor` hook is never run, and a check that
   commit messages and pull request text carry no AI attribution.
 
-[Unreleased]: https://github.com/BBellenoue/claude-statusline/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/BBellenoue/claude-statusline/releases/tag/v1.0.0
+[Unreleased]: https://github.com/quietmachineworks/claude-statusline/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/quietmachineworks/claude-statusline/releases/tag/v1.0.0
